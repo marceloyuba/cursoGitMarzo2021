@@ -6,6 +6,7 @@ git commit -"***" genera un commit en un repositorio
 git log    muestra informacion de los commits
 git add agrega un archivo al branch "add ." agrega todo lo que hay
 git log --oneline simplifica la info y te da los primeros 7 aracteres del commit
-agrego linea
+git remote add origin https://github.com/xxxxxxx/xxxxxxxxx.git para establecer una conexion con el github
+git push origin main     para subir un repositorio al github
 
 

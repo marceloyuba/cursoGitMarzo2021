@@ -16,5 +16,5 @@ git checkout nombre selecciona ese branch
 git switch nombre selecciona ese branch
 git switch -c nombre crea una nueva branch
 
-
+agregado por soporte
 

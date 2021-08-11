@@ -1,4 +1,4 @@
-mkdir    crear una carpeta
+mmkdir    crear una carpeta
 git init  crea un repositorio local
 git status muestra si hay commits
 git config -- sirve para configurar
@@ -9,17 +9,10 @@ git log --oneline simplifica la info y te da los primeros 7 aracteres del commit
 git remote add origin https://github.com/xxxxxxx/xxxxxxxxx.git para establecer una conexion con el github
 git push origin main     para subir un repositorio al github
 git remote -v enumera los push y fetch
+
 git brunch muestra los brunches en el proyecto
 git brunch nombre genera un brunch
 git checkout nombre selecciona ese branch
 git switch nombre selecciona ese branch
 git switch -c nombre crea una nueva branch
-
-
-
-cambio para desarrollo
-
-
-
-Cambio en soporte
 

@@ -14,3 +14,4 @@ git brunch muestra los brunches en el proyecto
 git brunch nombre genera un brunch
 git checkout nombre selecciona ese brunch
 
+Cambio en soporte

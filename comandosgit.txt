@@ -11,7 +11,10 @@ git push origin main     para subir un repositorio al github
 git remote -v enumera los push y fetch
 git brunch muestra los brunches en el proyecto
 git brunch nombre genera un brunch
-git checkout nombre selecciona ese brunch
+git checkout nombre selecciona ese branch
+git switch nombre selecciona ese branch
+git switch -c nombre crea una nueva branch
+
 
 cambio para desarrollo
 

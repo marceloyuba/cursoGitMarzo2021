@@ -1,4 +1,4 @@
-mmkdir    crear una carpeta
+mkdir    crear una carpeta
 git init  crea un repositorio local
 git status muestra si hay commits
 git config -- sirve para configurar
@@ -19,4 +19,10 @@ git switch -c nombre crea una nueva branch
 
 =======
 >>>>>>> recuperado
+
+<<<<<<< HEAD
+=======
+agregado por soporte
+>>>>>>> 2ad4cdb (agregado por soporte)
+
 

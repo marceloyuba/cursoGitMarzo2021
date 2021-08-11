@@ -1,4 +1,4 @@
-mkdir    crear una carpeta
+mmkdir    crear una carpeta
 git init  crea un repositorio local
 git status muestra si hay commits
 git config -- sirve para configurar
@@ -15,5 +15,8 @@ git brunch nombre genera un brunch
 git checkout nombre selecciona ese branch
 git switch nombre selecciona ese branch
 git switch -c nombre crea una nueva branch
+<<<<<<< HEAD
 
+=======
+>>>>>>> recuperado
 
